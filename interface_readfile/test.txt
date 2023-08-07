@@ -1,0 +1,1 @@
+this is a sample text file that is supposed to be read by golang
